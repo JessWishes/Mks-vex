@@ -2,10 +2,10 @@
 ##### Este es un proyecto hecho usando Rpg Maker VXAce como base y una versión del proyecto **mkxp** hecho por Ancurio.
 > [mkxp] (https://github.com/Ancurio/mkxp)
 
-# Objetivo
+## Objetivo
 ##### El objetivo es crear un pequeño proyecto que prueba la viabilidad de esta plataforma.
 
-# Créditos
+## Créditos
 ##### Créditos son para Enterbrain por RMVXAce y Ancurio por el **mkxp**
 
 ## Lista de cosas por realizar
